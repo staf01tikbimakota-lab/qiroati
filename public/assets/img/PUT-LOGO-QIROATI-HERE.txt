@@ -1,0 +1,2 @@
+Letakkan logo Qiroati di folder ini dengan nama: logo-qiroati.png  (PNG/JPG, disarankan persegi, min. 200x200 px).
+Jika file tidak ada, area logo kiri pada kop dikosongkan.
